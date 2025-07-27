@@ -1,1 +1,1 @@
-# Music-Player
+This project is a simple Music Player that plays the songs present in the songs folder and allows the user to interact with an easy to use and simple interface. The project is coded in languages HTML, CSS and Javascript. Those who wish to code a similar project like this can download and add their preferred songs in the songs folder.
